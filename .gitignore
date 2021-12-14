@@ -1,0 +1,5 @@
+target/test-classes/log4j/bug/LogTest.class
+target/test-classes/log4j/bug/ProTest.class
+target/test-classes/log4j/bug/RMIServer.class
+target/test-classes/log4j/bug/RMITest.class
+target/test-classes/log4j/bug/Exploit.class
